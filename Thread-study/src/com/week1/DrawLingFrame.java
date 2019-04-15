@@ -1,4 +1,4 @@
-package com.XianChen;
+package com.week1;
 
 /**
  * 绘图面板

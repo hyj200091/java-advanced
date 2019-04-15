@@ -1,4 +1,4 @@
-package com.XianChen;
+package com.week1;
 
 /**
  * 多线程售票程序1

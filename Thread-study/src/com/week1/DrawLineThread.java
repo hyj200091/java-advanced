@@ -1,4 +1,4 @@
-package com.XianChen;
+package com.week1;
 /**
  * 绘图线程程序
  * @author 侯粤嘉
