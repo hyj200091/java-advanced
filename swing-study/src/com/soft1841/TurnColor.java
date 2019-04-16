@@ -1,4 +1,9 @@
 package com.soft1841;
+/**
+ * 模拟交通中红绿灯得变化
+ * @author 侯粤嘉
+ * 2019.4.15
+ */
 
 import javax.swing.*;
 

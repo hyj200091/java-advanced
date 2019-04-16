@@ -52,9 +52,9 @@ public class LoginFrame extends JFrame {
         //窗体布局设置为空布局，需要每个组件设置定位
         setLayout(null);
         //setBounds方法的四个参数分别为组件x，y坐标，组件宽 高
-        accountLabel.setBounds(140, 60, 100, 35);
+        accountLabel.setBounds(100, 60, 100, 35);
         accountField.setBounds(240, 60, 260, 35);
-        passwordLabel.setBounds(140, 130, 100, 35);
+        passwordLabel.setBounds(100, 130, 100, 35);
         passwordField.setBounds(240, 130, 260, 35);
         roleLabel.setBounds(140, 200, 100, 35);
         roleComboBox.setBounds(240, 200, 260, 35);
