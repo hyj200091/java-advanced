@@ -2,6 +2,7 @@ package com.join;
 
 
 public class JoinDemo extends Thread {
+
     @Override
     public void run() {
         for (int i = 10;i>=1;i--){
@@ -16,7 +17,6 @@ public class JoinDemo extends Thread {
             }
         }
     }
-
     public static void main(String[] args) {
         System.out.println("开始倒数");
         JoinDemo joinDemo = new JoinDemo();

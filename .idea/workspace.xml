@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb188905-1fbf-43f4-9a07-8db24a1039be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/how/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/how/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/how/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/how/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/how/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/join/JoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/join/LoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/join/ShadePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/timer/TimeColorFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/timer/TimerFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/ShadeBackFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread-study/jar/jsoup-1.11.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/crawlf/JSoupDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/crawlf/JsoupDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/week1/TimeFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thread-study/src/img/55.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/ComponentPaintFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/ComponentPaintFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/ComponentPaintFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/ComponentPaintFrame$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/ComponentPaintFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/ComponentPaintFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/LoginFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/LoginFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/TrafficLights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/TrafficLights.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/TurnColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/swing-study/com/soft1841/TurnColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-study/src/com/soft1841/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/LoginFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-study/src/com/soft1841/TrafficLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/TrafficLights.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swing-study/src/com/soft1841/TurnColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/swing-study/src/com/soft1841/TurnColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread-study/Thread-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Thread-study/Thread-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread-study/src/com/join/JoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread-study/src/com/join/JoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thread-study/com/join/JoinDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thread-study/com/join/JoinDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,38 +25,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/ShadeBackFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Thread-study/src/com/join/JoinDemo.java">
+        <entry file="file://$PROJECT_DIR$/Thread-study/src/com/crawlf/JSoupDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/TimeColorFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="319">
+              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#877#1229#0" expanded="true" />
-                <element signature="e#1228#1229#0" expanded="true" />
-                <element signature="e#2021#2022#0" expanded="true" />
-                <element signature="e#2057#2058#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,6 +79,22 @@
         <option value="$PROJECT_DIR$/swing-study/src/com/soft1841/ShadeBackFrame.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/join/LoginFrame.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/join/JoinDemo.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/week1/ShadeTest.java" />
+        <option value="$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/TimeFrame(1).java" />
+        <option value="$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/TimeTest2(1).java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest2.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest1.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/Exercise/TimeFrame.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/Exercise/TimeTest2.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeFrame.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/jsoup/JsoupDemo1.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/crawfer/Decument.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/crawfer/JsoupDemo1.java" />
+        <option value="$PROJECT_DIR$/swing-study/src/com/crawlf/JsoupDemo.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JsoupDemo1.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JsoupDemo2.java" />
+        <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JSoupDemo2.java" />
       </list>
     </option>
   </component>
@@ -128,12 +108,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="130" />
-    <option name="y" value="50" />
-    <option name="width" value="1615" />
-    <option name="height" value="880" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -148,28 +129,6 @@
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swing-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="Thread-study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -188,28 +147,7 @@
               <item name="Thread-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="how" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thread-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="join" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thread-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="timer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thread-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="crawlf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,7 +162,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/swing-study/src/com/soft1841" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Thread-study/jar/jsoup-1.11.3.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -236,17 +174,21 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.crawfer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java-advanced\Thread-study\jar" />
+      <recent name="D:\java-advanced\Thread-study\jas" />
+      <recent name="D:\java-advanced\Thread-study\src\img" />
+      <recent name="D:\java-advanced\swing-study\src\com\Exercise" />
       <recent name="D:\java-advanced\swing-study\src\com\soft1841" />
-      <recent name="D:\java-advanced\Thread-study\src\com\timer" />
-      <recent name="D:\java-advanced\Thread-study\src\com\how" />
-      <recent name="D:\java-advanced\swing-study\src\img" />
-      <recent name="D:\java-advanced\swing-study\jar" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.soft1841" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java-advanced\Thread-study\src" />
       <recent name="D:\java-advanced\swing-study" />
     </key>
   </component>
@@ -262,13 +204,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JoinDemo">
-    <configuration name="JoinDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.join.JoinDemo" />
+  <component name="RunManager" selected="Application.JSoupDemo2">
+    <configuration name="JSoupDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crawlf.JSoupDemo2" />
       <module name="Thread-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.join.*" />
+          <option name="PATTERN" value="com.crawlf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFrame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.join.LoginFrame" />
+    <configuration name="JsoupDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crawlf.JsoupDemo1" />
       <module name="Thread-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.join.*" />
+          <option name="PATTERN" value="com.crawlf.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.LoginFrame" />
+    <configuration name="TimeFrame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Exercise.TimeFrame" />
       <module name="swing-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.*" />
+          <option name="PATTERN" value="com.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,25 +244,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShadeBackFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.ShadeBackFrame" />
-      <module name="swing-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.soft1841.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeColorFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.timer.TimeColorFrame" />
+    <configuration name="TimeFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.week1.TimeFrame" />
       <module name="Thread-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.timer.*" />
+          <option name="PATTERN" value="com.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.week1.TimeTest" />
+      <module name="Thread-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JoinDemo" />
-        <item itemvalue="Application.LoginFrame (1)" />
-        <item itemvalue="Application.LoginFrame" />
-        <item itemvalue="Application.ShadeBackFrame" />
-        <item itemvalue="Application.TimeColorFrame" />
+        <item itemvalue="Application.JSoupDemo2" />
+        <item itemvalue="Application.JsoupDemo1" />
+        <item itemvalue="Application.TimeFrame" />
+        <item itemvalue="Application.TimeFrame (1)" />
+        <item itemvalue="Application.TimeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -361,18 +303,22 @@
       <workItem from="1555389868456" duration="6529000" />
       <workItem from="1555397382320" duration="297000" />
       <workItem from="1555417534215" duration="925000" />
-      <workItem from="1555432264510" duration="2440000" />
+      <workItem from="1555432264510" duration="2871000" />
+      <workItem from="1555497465887" duration="7218000" />
+      <workItem from="1555536393623" duration="3700000" />
+      <workItem from="1555622115682" duration="7206000" />
+      <workItem from="1555631357885" duration="3907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52098000" />
+    <option name="totallyTimeSpent" value="74560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25838926" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,7 +327,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.60882354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6867647" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,164 +353,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercise-study/src/Exercise6/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/CarouselThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/TicketThreadTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/TicketThreadTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise-study/src/Exercise6/ClendarDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/NumberFrame.java" />
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/NumberThread.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="1091" column="12" selection-start-line="1091" selection-start-column="12" selection-end-line="1091" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/ImageIcon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="216" selection-start-line="216" selection-end-line="216" />
-          <folding>
-            <element signature="e#6758#6759#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LightsFrame.java" />
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/TurnThread.java" />
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/NumberJFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer.java" />
-    <entry file="file://$PROJECT_DIR$/io-study/src/com/soft1841/NumThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/GoodsClassFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1231">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/CarouselFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/TestThread.java" />
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/DrawLingFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/TimerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/JFileChooserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/ComponentPaintFrame.java" />
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/TrafficLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/TurnColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/CricleDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="857">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/CricleThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -648,13 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/NumberThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/DrawLineThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -678,42 +463,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/ShadePanel1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="49" selection-start-line="1" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#356#496#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/ShadePanel1(1).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#438#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="57" column="35" lean-forward="true" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2453#2454#0" expanded="true" />
-            <element signature="e#2485#2486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/ShadePanel1.java" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/ShadePanel1(1).java" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LoginFrame.java" />
     <entry file="file://$PROJECT_DIR$/Thread-study/src/com/join/ShadePanel1.java" />
     <entry file="file://$PROJECT_DIR$/Thread-study/src/com/how/Demo4.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -732,26 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/join/ShadePanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/join/LoginFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Thread-study/src/com/how/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -759,9 +491,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/JoinDemo.java" />
     <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/ShadeBackFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
+        <state relative-caret-position="1131">
           <caret line="46" column="33" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -771,29 +504,179 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/TimeColorFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="870">
+          <caret line="51" column="31" lean-forward="true" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#877#1229#0" expanded="true" />
             <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1341#1885#0" expanded="true" />
+            <element signature="e#1884#1885#0" expanded="true" />
             <element signature="e#2021#2022#0" expanded="true" />
             <element signature="e#2057#2058#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/JoinDemo.java">
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/CricleThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="290">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/CricleDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/NumberThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/NumberJFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145">
+          <caret line="24" column="58" lean-forward="true" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/join/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#950#1302#0" expanded="true" />
+            <element signature="e#1301#1302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/join/ShadePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#326#428#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/CarouselThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/CarouselFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/ShadeTest.java" />
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest.java" />
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/Exercise.java" />
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/Exercise/TimeTest1.java" />
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/Exercise/TimeFrame.java" />
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/Exercise/TimeTest2.java" />
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest2.java" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/TimeTest2(1).java" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/TimeFrame(1).java" />
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/week1/TimeFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/jsoup/JsoupDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/crawfer/Decument.java" />
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/crawfer/JsoupDemo1.java" />
+    <entry file="file://$PROJECT_DIR$/swing-study/src/com/crawlf/JsoupDemo.java" />
     <entry file="file://$PROJECT_DIR$/Thread-study/src/com/join/JoinDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="-122">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="592" column="22" selection-start-line="592" selection-start-column="22" selection-end-line="592" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="656" column="18" selection-start-line="656" selection-start-column="18" selection-end-line="656" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/crawlf/JsoupDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/crawlf/JSoupDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -847,7 +730,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>swing-study</last-edited>
+          <last-edited>Thread-study</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
