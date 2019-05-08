@@ -37,6 +37,7 @@ public class ShadeBackFrame extends JFrame {
 
 
     private void init() {
+
         setLayout(null);
         ShadePanel shadePanel = new ShadePanel();
         shadePanel.setLayout(null);

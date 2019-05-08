@@ -11,16 +11,16 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class JsoupDemo1 {
+public class JSoupDemo1 {
     public static void main(String[] args) throws Exception {
         //1 指定页面链接
-        String url = "https://www.liaoxuefeng.com/category/0013738748415562fee26e070fa4664ad926c8e30146c67000";
+        String url = "https://mil.news.sina.com.cn/";
         //2 建立与目标页面的连接
         Connection connection = Jsoup.connect(url);
         //3 解析目标页面
         //4 获取页面中的所有uk-article uk-clearfix的元素
         Document document = connection.get();
-        Elements elements = document.getElementsByClass("uk-article uk-clearfix");
+        Elements elements = document.getElementsByClass("mess_link_one");
         System.out.println(elements.size());
         for (Element element:elements) {
             //5 取出div中的子元素
@@ -29,6 +29,5 @@ public class JsoupDemo1 {
             String titletring = link.text();
             System.out.println(titletring);
         }
-
     }
 }

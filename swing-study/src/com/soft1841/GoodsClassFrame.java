@@ -18,9 +18,9 @@ import java.io.*;
  */
 public class GoodsClassFrame extends JFrame implements ActionListener {
     private GridLayout gridLayoutW, gridLayoutC;
+
     //滚动面板
     private JScrollPane jScrollPane;
-
     private JPanel cardPanelW, cardPanelC;
     private JButton firstBtn, secondBtn, thirdBtn, fourBtn;
     private JLabel imageLable;
@@ -36,6 +36,7 @@ public class GoodsClassFrame extends JFrame implements ActionListener {
         setLocationRelativeTo(null);
         setVisible(true);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
     }
 
     public void init() {
@@ -85,6 +86,7 @@ public class GoodsClassFrame extends JFrame implements ActionListener {
         add(fourBtn,BorderLayout.NORTH);
         add(cardPanelW, BorderLayout.WEST);
         add(cardPanelC, BorderLayout.CENTER);
+
     }
 
     public static void main(String[] args) {

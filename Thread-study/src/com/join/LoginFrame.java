@@ -1,5 +1,6 @@
 package com.join;
 
+
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
@@ -13,6 +14,7 @@ public class LoginFrame extends JFrame {
     private JButton confirmButton, cancelButton;
     private int width;
     private int height;
+
     public LoginFrame(){
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         width = screenSize.width;
@@ -72,6 +74,7 @@ public class LoginFrame extends JFrame {
         imgPanel.add(cancelButton);
         shadePanel.add(imgPanel);
         add(shadePanel);
+        setLayout(null);
     }
 
     public static void main(String[] args) {

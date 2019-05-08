@@ -26,6 +26,7 @@ public class GridLayoutTest extends JFrame {
         setExtendedState(JFrame.MAXIMIZED_BOTH);
         setVisible(true);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
     }
 
     public void init() {

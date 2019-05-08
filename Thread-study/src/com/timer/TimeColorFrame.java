@@ -47,6 +47,7 @@ public class TimeColorFrame extends JFrame {
         };
         jPanel.setLayout(new FlowLayout(FlowLayout.CENTER,200,200));
         add(jPanel);
+
         clockTask = new TimerTask() {
             @Override
             public void run() {
@@ -60,7 +61,6 @@ public class TimeColorFrame extends JFrame {
                     JOptionPane.showMessageDialog(jPanel, "时间到~~");
                     this.cancel();
                 }
-
             }
         };
         timer = new Timer();

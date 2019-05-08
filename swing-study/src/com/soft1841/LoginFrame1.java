@@ -11,7 +11,7 @@ import org.jb2011.lnf.beautyeye.ch3_button.BEButtonUI;
 import javax.swing.*;
 import java.awt.*;
 
-public class LoginFrame extends JFrame {
+public class LoginFrame1 extends JFrame {
     private JLabel accountLabel, passwordLabel, roleLabel;
     private JTextField accountField;
     private JPasswordField passwordField;
@@ -19,7 +19,7 @@ public class LoginFrame extends JFrame {
     private JButton confirmButton, cancelButton;
     private JLabel bgLabel;
 
-    public LoginFrame() {
+    public LoginFrame1() {
         init();
         setTitle("登录窗体");
         setSize(640, 480);
@@ -72,7 +72,7 @@ public class LoginFrame extends JFrame {
         add(cancelButton);
         //将图片加入背景单中 最后的时候在加进去  不然会覆盖一些东西
         bgLabel = new JLabel();
-        Icon bgIcon = new ImageIcon(LoginFrame.class.getResource("/img/4.jpg"));
+        Icon bgIcon = new ImageIcon(LoginFrame1.class.getResource("/img/4.jpg"));
         bgLabel.setIcon(bgIcon);
         bgLabel.setBounds(0, 0, 640, 480);
         add(bgLabel);
@@ -86,6 +86,6 @@ public class LoginFrame extends JFrame {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        new LoginFrame();
+        new LoginFrame1();
     }
 }
