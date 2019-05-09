@@ -16,6 +16,7 @@ public class Client4 {
         String path = scanner.nextLine();
         File file = new File(path + "/"+ UUID.randomUUID().toString()+".jpg");
         OutputStream os = new FileOutputStream(file);
+        System.out.println();
         BufferedOutputStream bos = new BufferedOutputStream(os);
         byte[] bytes = new byte[1024];
         int tmp;
