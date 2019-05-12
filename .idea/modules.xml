@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Thread-study/Thread-study.iml" filepath="$PROJECT_DIR$/Thread-study/Thread-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection-study/collection-study.iml" filepath="$PROJECT_DIR$/collection-study/collection-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise-study/exercise-study.iml" filepath="$PROJECT_DIR$/exercise-study/exercise-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-form/gui-form.iml" filepath="$PROJECT_DIR$/gui-form/gui-form.iml" />
       <module fileurl="file://$PROJECT_DIR$/io-study/io-study.iml" filepath="$PROJECT_DIR$/io-study/io-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket-study/socket-study.iml" filepath="$PROJECT_DIR$/socket-study/socket-study.iml" />

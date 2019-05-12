@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb188905-1fbf-43f4-9a07-8db24a1039be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/socket-study/src/week1/UDPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket-study/src/week1/UDPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/gui-form.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket-study/src/souket/ClientFrame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket-study/src/souket/ServerFrame1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/socket-study/week1/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/socket-study/week1/Client2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/socket-study/week1/Client4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/socket-study/week1/Client4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket-study/src/week1/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/socket-study/src/week1/Client2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket-study/src/week1/Client4.java" beforeDir="false" afterPath="$PROJECT_DIR$/socket-study/src/week1/Client4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/socket-study/souket/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/socket-study/souket/Client2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/socket-study/souket/Client3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/socket-study/souket/Client3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket-study/src/souket/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/socket-study/src/souket/Client2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket-study/src/souket/Client3.java" beforeDir="false" afterPath="$PROJECT_DIR$/socket-study/src/souket/Client3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,25 +43,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/socket-study/src/week1/UDPServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form">
+          <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/socket-study/src/week1/UDPClient.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="957">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="168">
+              <caret line="26" column="97" lean-forward="true" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,11 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/TimeTest2(1).java" />
-        <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest.java" />
-        <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest2.java" />
-        <option value="$PROJECT_DIR$/swing-study/src/com/Exercise/TimeFrame.java" />
-        <option value="$PROJECT_DIR$/swing-study/src/com/Exercise/TimeTest2.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/jsoup/JsoupDemo1.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/crawfer/Decument.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/crawfer/JsoupDemo1.java" />
@@ -125,12 +122,17 @@
         <option value="$PROJECT_DIR$/socket-study/src/week1/Client1.java" />
         <option value="$PROJECT_DIR$/socket-study/src/souket/Client1.java" />
         <option value="$PROJECT_DIR$/socket-study/src/souket/Server3.java" />
-        <option value="$PROJECT_DIR$/socket-study/src/souket/Client3.java" />
         <option value="$PROJECT_DIR$/socket-study/src/week1/Server4.java" />
         <option value="$PROJECT_DIR$/socket-study/src/week1/Client4.java" />
         <option value="$PROJECT_DIR$/socket-study/src/week1/Client2.java" />
         <option value="$PROJECT_DIR$/socket-study/src/week1/UDPClient.java" />
         <option value="$PROJECT_DIR$/socket-study/src/week1/UDPServer.java" />
+        <option value="$PROJECT_DIR$/socket-study/src/souket/ServerFrame1.java" />
+        <option value="$PROJECT_DIR$/socket-study/src/souket/Client2.java" />
+        <option value="$PROJECT_DIR$/socket-study/src/souket/Client3.java" />
+        <option value="$PROJECT_DIR$/socket-study/src/souket/ClientFrame1.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form" />
       </list>
     </option>
   </component>
@@ -156,65 +158,86 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="souket" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="TimLoginFrame" type="e9f4de52:FormNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="337" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/socket-study/src/week1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gui-form/src/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java-advanced\gui-form\src" />
       <recent name="D:\java-advanced\Thread-study\src" />
       <recent name="D:\java-advanced\swing-study" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java-advanced\gui-form\src\img" />
+      <recent name="D:\java-advanced\socket-study\src\souket" />
       <recent name="D:\java-advanced\socket-study\src\week1" />
       <recent name="D:\java-advanced\socket-study\src\test" />
-      <recent name="D:\java-advanced\socket-study\src\souket" />
       <recent name="D:\java-advanced\Thread-study\src\img" />
-      <recent name="D:\java-advanced\Thread-study\jar" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.soft1841" />
@@ -235,13 +258,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UDPClient">
-    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Client2" />
+  <component name="RunManager" selected="Application.TimLoginFrame">
+    <configuration name="Client2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="souket.Client2" />
       <module name="socket-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="souket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Client4" />
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="souket.Client3" />
       <module name="socket-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="souket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Server2" />
+    <configuration name="ClientFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="souket.ClientFrame1" />
       <module name="socket-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="souket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +298,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.UDPClient" />
+    <configuration name="ServerFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="souket.ServerFrame1" />
       <module name="socket-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="souket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.UDPServer" />
-      <module name="socket-study" />
+    <configuration name="TimLoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.TimLoginFrame" />
+      <module name="gui-form" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="com.soft1841.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UDPClient" />
-        <item itemvalue="Application.UDPServer" />
-        <item itemvalue="Application.Client2" />
-        <item itemvalue="Application.Server2" />
-        <item itemvalue="Application.Client4" />
+        <item itemvalue="Application.TimLoginFrame" />
+        <item itemvalue="Application.ClientFrame1" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Client2 (1)" />
+        <item itemvalue="Application.ServerFrame1" />
       </list>
     </recent_temporary>
   </component>
@@ -358,18 +381,19 @@
       <workItem from="1557312930061" duration="7249000" />
       <workItem from="1557350267650" duration="2272000" />
       <workItem from="1557410527985" duration="2601000" />
-      <workItem from="1557439847486" duration="1619000" />
+      <workItem from="1557439847486" duration="2431000" />
+      <workItem from="1557476309973" duration="2448000" />
+      <workItem from="1557697741449" duration="2470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193462000" />
+    <option name="totallyTimeSpent" value="199192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.28150135" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.288874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,7 +402,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44721407" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7228739" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,7 +410,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48240468" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4809384" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3240469" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -400,7 +424,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20174263" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.28954422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -409,7 +433,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37829912" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7228739" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -417,9 +441,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48382354" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4816984" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32844576" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3240469" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -447,49 +471,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Thread-study/src/com/timer/TimeColorFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="17" selection-start-line="16" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/io-study/src/com/soft1841/TxReaderFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-986">
-          <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
-          <folding>
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1573#1574#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/TrafficLights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/TurnColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/DrawImageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LoginFrame.java" />
     <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/ImageViewFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1827">
@@ -722,16 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/socket-study/src/souket/Client3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/socket-study/src/souket/Server2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -774,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/socket-study/src/souket/Client2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/socket-study/src/week1/Client2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -797,20 +761,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/socket-study/src/week1/UDPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="1044">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-05/Server1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-05/ClientFrame1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/socket-study/src/week1/UDPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="574">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket-study/src/souket/ClientFrame1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket-study/src/souket/ServerFrame1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket-study/src/souket/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket-study/src/souket/Client3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="26" column="97" lean-forward="true" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -821,10 +840,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>gui-form:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -865,7 +886,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Thread-study</last-edited>
+          <last-edited>gui-form</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
