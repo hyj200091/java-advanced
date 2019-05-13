@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gui-form:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fb188905-1fbf-43f4-9a07-8db24a1039be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gui-form/gui-form.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket-study/src/souket/ClientFrame1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket-study/src/souket/ServerFrame1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/tx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui-form/src/img/wz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket-study/src/week1/URLDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/socket-study/souket/Client2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/socket-study/souket/Client2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/socket-study/souket/Client3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/socket-study/souket/Client3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket-study/src/souket/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/socket-study/src/souket/Client2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket-study/src/souket/Client3.java" beforeDir="false" afterPath="$PROJECT_DIR$/socket-study/src/souket/Client3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,20 +59,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java">
+        <entry file="file://$PROJECT_DIR$/socket-study/src/week1/URLDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="26" column="97" lean-forward="true" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+            <state relative-caret-position="522">
+              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#583#584#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,11 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Thread-study/src/com/jsoup/JsoupDemo1.java" />
-        <option value="$PROJECT_DIR$/Thread-study/src/com/crawfer/Decument.java" />
-        <option value="$PROJECT_DIR$/Thread-study/src/com/crawfer/JsoupDemo1.java" />
-        <option value="$PROJECT_DIR$/swing-study/src/com/crawlf/JsoupDemo.java" />
-        <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JsoupDemo1.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JsoupDemo2.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JSoupDemo2.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest1.java" />
@@ -133,6 +137,11 @@
         <option value="$PROJECT_DIR$/socket-study/src/souket/ClientFrame1.java" />
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java" />
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.form" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.java" />
+        <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.form" />
+        <option value="$PROJECT_DIR$/socket-study/src/week1/URLDemo.java" />
       </list>
     </option>
   </component>
@@ -146,9 +155,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -158,53 +167,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
+              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gui-form" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="soft1841" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="TimLoginFrame" type="e9f4de52:FormNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -227,10 +212,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java-advanced\gui-form\src" />
-      <recent name="D:\java-advanced\Thread-study\src" />
-      <recent name="D:\java-advanced\swing-study" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.crawfer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java-advanced\gui-form\src\img" />
@@ -242,8 +225,10 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.soft1841" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.crawfer" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java-advanced\gui-form\src" />
+      <recent name="D:\java-advanced\Thread-study\src" />
+      <recent name="D:\java-advanced\swing-study" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -258,33 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TimLoginFrame">
-    <configuration name="Client2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="souket.Client2" />
-      <module name="socket-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="souket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="souket.Client3" />
-      <module name="socket-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="souket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.URLDemo">
     <configuration name="ClientFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="souket.ClientFrame1" />
       <module name="socket-study" />
@@ -298,12 +257,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="souket.ServerFrame1" />
-      <module name="socket-study" />
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.Computer" />
+      <module name="gui-form" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="souket.*" />
+          <option name="PATTERN" value="com.soft1841.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Music" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.Music" />
+      <module name="gui-form" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1841.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,13 +296,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="URLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.URLDemo" />
+      <module name="socket-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.URLDemo" />
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.Music" />
         <item itemvalue="Application.TimLoginFrame" />
         <item itemvalue="Application.ClientFrame1" />
-        <item itemvalue="Application.Client3" />
-        <item itemvalue="Application.Client2 (1)" />
-        <item itemvalue="Application.ServerFrame1" />
       </list>
     </recent_temporary>
   </component>
@@ -383,17 +368,22 @@
       <workItem from="1557410527985" duration="2601000" />
       <workItem from="1557439847486" duration="2431000" />
       <workItem from="1557476309973" duration="2448000" />
-      <workItem from="1557697741449" duration="2470000" />
+      <workItem from="1557697741449" duration="2762000" />
+      <workItem from="1557731312360" duration="3744000" />
+      <workItem from="1557735997556" duration="1344000" />
+      <workItem from="1557749371159" duration="5648000" />
+      <workItem from="1557786508795" duration="465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199192000" />
+    <option name="totallyTimeSpent" value="210685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.288874" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.29289544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,7 +392,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7228739" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08211144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,7 +400,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4809384" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4809384" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3240469" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -471,17 +461,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/ImageViewFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1827">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/Login.java" />
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/LoginJFrame.java" />
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LoginJFrame.java" />
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LoginApplication.java" />
     <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LoginFrame(1).java" />
     <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/GoodsClassFrame.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -822,14 +801,42 @@
     <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/TimLoginFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="26" column="97" lean-forward="true" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+        <state>
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket-study/src/week1/URLDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
