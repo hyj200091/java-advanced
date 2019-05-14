@@ -7,33 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb188905-1fbf-43f4-9a07-8db24a1039be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/222.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/444.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/tx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui-form/src/img/wz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket-study/src/week1/URLDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-study/jdbc-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc-study/src/main/java/jdbc/JDBCDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/jdbc-study/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,15 +44,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/socket-study/src/week1/URLDemo.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdbc-study/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="319">
+              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/jdbc/JDBCDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -91,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JsoupDemo2.java" />
-        <option value="$PROJECT_DIR$/Thread-study/src/com/crawlf/JSoupDemo2.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/week1/TimeTest1.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/zonghe/SupermarketFrame.java" />
         <option value="$PROJECT_DIR$/Thread-study/src/com/zonghe/ChooserThread.java" />
@@ -142,6 +132,8 @@
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.java" />
         <option value="$PROJECT_DIR$/gui-form/src/com/soft1841/gui/Computer.form" />
         <option value="$PROJECT_DIR$/socket-study/src/week1/URLDemo.java" />
+        <option value="$PROJECT_DIR$/jdbc-study/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-study/src/main/java/jdbc/JDBCDemo1.java" />
       </list>
     </option>
   </component>
@@ -154,10 +146,21 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="soft1841" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -167,30 +170,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="socket-study" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,14 +209,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.crawfer" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java-advanced\gui-form\src" />
+      <recent name="D:\java-advanced\Thread-study\src" />
+      <recent name="D:\java-advanced\swing-study" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\java-advanced\gui-form\src\img" />
@@ -225,10 +230,8 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.soft1841" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java-advanced\gui-form\src" />
-      <recent name="D:\java-advanced\Thread-study\src" />
-      <recent name="D:\java-advanced\swing-study" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.crawfer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,13 +246,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.URLDemo">
-    <configuration name="ClientFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="souket.ClientFrame1" />
-      <module name="socket-study" />
+  <component name="RunManager" selected="Application.JDBCDemo1">
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.Computer" />
+      <module name="gui-form" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="souket.*" />
+          <option name="PATTERN" value="com.soft1841.gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.gui.Computer" />
-      <module name="gui-form" />
+    <configuration name="JDBCDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.JDBCDemo1" />
+      <module name="jdbc-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.gui.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDBCDemo1" />
         <item itemvalue="Application.URLDemo" />
         <item itemvalue="Application.Computer" />
         <item itemvalue="Application.Music" />
         <item itemvalue="Application.TimLoginFrame" />
-        <item itemvalue="Application.ClientFrame1" />
       </list>
     </recent_temporary>
   </component>
@@ -372,18 +375,19 @@
       <workItem from="1557731312360" duration="3744000" />
       <workItem from="1557735997556" duration="1344000" />
       <workItem from="1557749371159" duration="5648000" />
-      <workItem from="1557786508795" duration="465000" />
+      <workItem from="1557786508795" duration="786000" />
+      <workItem from="1557791094672" duration="2237000" />
+      <workItem from="1557852150452" duration="2271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="210685000" />
+    <option name="totallyTimeSpent" value="215514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.29289544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.30093834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -392,7 +396,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08211144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4809384" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,9 +411,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -461,14 +465,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/hyj2000901/FileStorage/File/2019-04/LoginFrame(1).java" />
-    <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/GoodsClassFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3161">
-          <caret line="117" column="39" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swing-study/src/com/soft1841/ChooserFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -833,11 +829,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/socket-study/src/week1/URLDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-study/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdbc-study/src/main/java/jdbc/JDBCDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -852,7 +862,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -893,7 +902,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>gui-form</last-edited>
+          <last-edited>jdbc-study</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
