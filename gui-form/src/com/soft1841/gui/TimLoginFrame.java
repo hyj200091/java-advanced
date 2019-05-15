@@ -1,8 +1,13 @@
 package com.soft1841.gui;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.ComponentAdapter;
+import java.awt.event.ComponentEvent;
+import java.io.IOException;
+import java.net.URI;
 
 public class TimLoginFrame {
     private JPanel mainPanel;
@@ -21,6 +26,18 @@ public class TimLoginFrame {
                 JOptionPane.showMessageDialog(null,"登录成功");
             }
         });
+
+        bannerLabel.addComponentListener(new ComponentAdapter() {
+            @Override
+            public void componentResized(ComponentEvent e) {
+                try {
+                    Desktop.getDesktop().browse(URI.create("http://www.baidu.com"));
+                } catch (IOException err) {
+                    err.printStackTrace();
+                }
+            }
+        });
+
     }
 
     public static void main(String[] args) throws Exception{
