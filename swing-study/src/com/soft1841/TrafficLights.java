@@ -10,7 +10,6 @@ import javax.swing.border.TitledBorder;
 import java.awt.*;
 
 public class TrafficLights  extends JFrame{
-
     private JLabel imgLabel;
     private JPanel imgPanel;
     public TrafficLights(){
@@ -21,6 +20,7 @@ public class TrafficLights  extends JFrame{
         setResizable(true);
         setVisible(true);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+
     }
     public void init(){
         imgPanel = new JPanel();

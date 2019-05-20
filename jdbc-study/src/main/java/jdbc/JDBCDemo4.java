@@ -13,6 +13,7 @@ public class JDBCDemo4 {
     static final String DB_URL ="jdbc:mysql://localhost:3306/db_jdbc?useUnicode=true&characterEncoding=utf8";
     static final String USER ="root";
     static final String PASS ="root";
+
     public static void main(String[] args)throws SQLException,ClassNotFoundException {
         Class.forName(JDBC_DRIVER);
         System.out.println("连接数据库...");

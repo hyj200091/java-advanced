@@ -6,7 +6,11 @@
 
     <groupId>com.soft1841</groupId>
     <artifactId>soft1841</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../design-study</module>
+    </modules>
 
     <dependencies>
         <dependency>
