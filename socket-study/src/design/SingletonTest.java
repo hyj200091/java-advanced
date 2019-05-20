@@ -1,4 +1,4 @@
-package week1;
+package design;
 
 /**
  * 单列模式测试程序
